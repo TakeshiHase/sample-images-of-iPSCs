@@ -26,5 +26,5 @@ Ryutaro Akiyoshi1†, Takeshi Hase2,3†, Mayuri Sathiyananthavel2,3, Samik Ghos
 2.	The Systems Biology Institute, Saisei Ikedayama Bldg., 5-10-25, Higashi Gotanda, Shinagawa-ku, Tokyo 141-0022, Japan
 3.	SBX BioSciences, Inc. 1111 West Georgia Street, 20th Floor, Vancouver, B.C, V6E 4G2, Canada
 †  Equal contribution
-* Corresponding author: yachie@sbx-biosci.com
+* Corresponding author: yachie[at]sbx-biosci.com
 
