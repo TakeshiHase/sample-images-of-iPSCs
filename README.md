@@ -18,3 +18,13 @@ model iii: Semi-supervised Classification
 models i and iii require one imput image file, while model ii require four adjucent image files to assess pluripotency.
 There are three datasets (dataset 1, 2, and 3) for each condition and each dataset contains four adjucent images to input for model i.
 For example, dataset1 under condition1 contains four adjucent image files, A-02_F0001_T0020_Z0001.png, A-02_F0001_T0020_Z0002.png, A-02_F0001_T0020_Z0003.png, and A-02_F0001_T0020_Z0004.png.
+
+# citations
+Ryutaro Akiyoshi1†, Takeshi Hase2,3†, Mayuri Sathiyananthavel2,3, Samik Ghosh2, Hiroaki Kitano2 and Ayako Yachie2,3* (2024) Noninvasive, Label-free Image Approaches to Predict Multimodal Molecular Markers in Pluripotency Assessment. (submitted)
+
+1.	Yokogawa Electric Corporation, 2-9-32 Nakacho, Musashino-shi, Tokyo, 180-8750, Japan
+2.	The Systems Biology Institute, Saisei Ikedayama Bldg., 5-10-25, Higashi Gotanda, Shinagawa-ku, Tokyo 141-0022, Japan
+3.	SBX BioSciences, Inc. 1111 West Georgia Street, 20th Floor, Vancouver, B.C, V6E 4G2, Canada
+†  Equal contribution
+* Corresponding author: yachie@sbx-biosci.com
+
