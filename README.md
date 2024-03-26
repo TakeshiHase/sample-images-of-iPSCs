@@ -7,7 +7,7 @@ Information of position for each image is embedded in the file name of the image
 Figure 1. Arrangement of iPSC image files.
 
 The sample images are sample input images for the following three models proposed in our paper (see ciation).
-model i: One-class Cell-based Classification
+\tmodel i: One-class Cell-based Classification
 model ii: One-class Tile-based Classification
 model iii: Semi-supervised Classification
 models i and iii require one imput image file, while model ii require four adjucent image files to assess pluripotency.
