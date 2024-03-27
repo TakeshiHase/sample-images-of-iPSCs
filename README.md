@@ -28,6 +28,6 @@ Ryutaro Akiyoshi1†, Takeshi Hase2,3†, Mayuri Sathiyananthavel2,3, Samik Ghos
 †  Equal contribution
 * Corresponding author: yachie[at]sbx-biosci.com  , please change [at] to @
 
-##Licences
+## Licences
 The image datasets is copyrighted by Yokogawa Electric Corporation.
 
