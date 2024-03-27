@@ -7,7 +7,7 @@ Information of position for each image is embedded in the file name of the image
 Figure 1. Arrangement of iPSC image files.
 
 
-The sample images are sample input images for the following three models proposed in our paper (see citation).
+The sample images are sample input images for the following three models built in our paper (see citation).
 
 model i: One-class Cell-based Classification
 
@@ -16,7 +16,7 @@ model ii: One-class Tile-based Classification
 model iii: Semi-supervised Classification
 
 models i and iii require one input image file, while model ii require four adjacent image files to assess pluripotency.
-There are three datasets (dataset 1, 2, and 3) for each condition and each dataset contains four adjacent images to input for model ii.
+There are three datasets (dataset 1, 2, and 3) for each condition which contains four adjacent images.
 For example, dataset1 under condition1 contains four adjacent image files, A-02_F0001_T0020_Z0001.png, A-02_F0001_T0020_Z0002.png, A-02_F0001_T0020_Z00011.png, and A-02_F0001_T0020_Z00012.png.
 
 ## citation
@@ -27,4 +27,7 @@ Ryutaro Akiyoshi1†, Takeshi Hase2,3†, Mayuri Sathiyananthavel2,3, Samik Ghos
 3.	SBX BioSciences, Inc. 1111 West Georgia Street, 20th Floor, Vancouver, B.C, V6E 4G2, Canada
 †  Equal contribution
 * Corresponding author: yachie[at]sbx-biosci.com  , please change [at] to @
+
+##Licences
+The image datasets is copyrighted by Yokogawa Electric Corporation.
 
