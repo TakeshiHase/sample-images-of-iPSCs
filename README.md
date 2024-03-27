@@ -1,5 +1,5 @@
 # sample-images-of-iPSCs
-The repository contains sample iPSC images for classifier models to assess pluripotency (sample image datasets are available in sample_image_data.zip). The iPSC images are obtained under the four cell culture conditions (conditions 1, 2, 3 ,and 4).
+The repository contains sample iPSC images for classifier models to assess pluripotency. The iPSC images are obtained under the four cell culture conditions, i.e., sample image datasets are available in sample_image_data_for_condition1.zip, sample_image_data_for_condition2.zip, sample_image_data_for_condition3.zip, and sample_image_data_for_condition4.zip for conditions 1, 2, 3 ,and 4, respective.
 For each condition, 200 images were obtained and arranged as shown in the Figure 1. 
 Information of position for each image is embedded in the file name of the image, i.e.,  "F0001" represents position information of an image file of "A-02_F0001_T0020_Z0001.png" and the image is placed in yellow highlighted position in the Figure 1.
 
