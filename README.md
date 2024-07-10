@@ -20,7 +20,7 @@ There are three datasets (dataset 1, 2, and 3) for each condition which contains
 For example, dataset1 under condition1 contains four adjacent image files, A-02_F0001_T0020_Z0001.png, A-02_F0001_T0020_Z0002.png, A-02_F0001_T0020_Z00011.png, and A-02_F0001_T0020_Z00012.png.
 
 ## citation
-Ryutaro Akiyoshi1†, Takeshi Hase2,3†, Mayuri Sathiyananthavel2,3, Samik Ghosh2, Hiroaki Kitano2 and Ayako Yachie2,3* (2024) Noninvasive, Label-free Image Approaches to Predict Multimodal Molecular Markers in Pluripotency Assessment. (submitted)
+Ryutaro Akiyoshi1†, Takeshi Hase2,3†, Mayuri Sathiyananthavel2,3, Samik Ghosh2, Hiroaki Kitano2 and Ayako Yachie2,3* (2024) Noninvasive, Label-free Image Approaches to Predict Multimodal Molecular Markers in Pluripotency Assessment. Sci Rep 14, 15760 (2024). https://doi.org/10.1038/s41598-024-66591-z
 
 1.	Yokogawa Electric Corporation, 2-9-32 Nakacho, Musashino-shi, Tokyo, 180-8750, Japan
 2.	The Systems Biology Institute, Saisei Ikedayama Bldg., 5-10-25, Higashi Gotanda, Shinagawa-ku, Tokyo 141-0022, Japan
